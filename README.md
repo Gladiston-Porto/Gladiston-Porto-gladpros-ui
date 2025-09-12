@@ -125,6 +125,10 @@ npm run lint
 
 MIT © GladPros Team
 
+---
+
+*📦 Primeira publicação automática - 12 de setembro de 2025*
+
 ## 🔗 Links
 
 - [GitHub Repository](https://github.com/Gladiston-Porto/gladpros-ui)
